@@ -168,7 +168,7 @@ nav {
   position: absolute;
   height: 100%;
   width: 100%;
-  background-image: conic-gradient(from var(--angle), #31ff8e, #2196f3);
+  background-image: conic-gradient(from var(--angle), #31ff8e, #1a90f1);
   border-radius: 50%;
   padding: 4px;
   top: 50%;
