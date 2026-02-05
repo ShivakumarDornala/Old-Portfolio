@@ -432,7 +432,7 @@ figcaption {
 }
 .back-end {
   position: relative;
-  border: #ffffff2a solid 1px;
+  border: #fcfcfc2a solid 1px;
   background-color: #302f2f58;
   padding: 10px;
   border-radius: 30px;
@@ -442,7 +442,7 @@ figcaption {
   font-weight: 500;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center;..
   padding: 10px;
 }
 .tools-version {
