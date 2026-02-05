@@ -447,7 +447,7 @@ figcaption {
 }
 .tools-version {
   position: relative;
-  border: #ffffff2a solid 1px;
+  border: #faf6f62a solid 1px;
   padding: 15px;
   background-color: #25252558;
   border-radius: 30px;
@@ -465,7 +465,7 @@ figcaption {
 #samplebox {
   height: 2vh;
   width: 50vw;
-  background-color: #1791fc;
+  background-color: #128efa;
 }
 
 /* Hamburger Menu Styles */
